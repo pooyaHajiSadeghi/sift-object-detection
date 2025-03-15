@@ -22,8 +22,8 @@ pip install opencv-python numpy matplotlib
 
 ```python
 # بارگذاری تصاویر
-i1 = cv2.imread('box.png')
-i2 = cv2.imread('box_in_scene.png')
+i1 = cv2.imread('img/box.png')
+i2 = cv2.imread('img/box_in_scene.png')
 ```
 3. کد را اجرا کنید:
 
