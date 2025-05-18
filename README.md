@@ -58,15 +58,7 @@ Assuming you have two images named `image1.jpg` and `image2.jpg` placed in the p
 2. The second image with its keypoints similarly displayed.  
 3. A combined image illustrating the feature matches by drawing lines between corresponding points in both images.
 
-*Example visualization:*
 
-![Keypoints detection example](https://raw.githubusercontent.com/pooyaHajiSadeghi/project-name/main/examples/keypoints_example.png)  
-*Figure: ORB keypoints detected on sample images.*
-
-![Feature matching example](https://raw.githubusercontent.com/pooyaHajiSadeghi/project-name/main/examples/matches_example.png)  
-*Figure: Feature matches between two images illustrated by connecting lines.*
-
-*(Note: Replace image URLs with actual paths if hosting examples in the repo.)*
 
 ---
 
